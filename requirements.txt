@@ -1,0 +1,27 @@
+# ==============================================
+# Forex AI Trading Bot — Core Dependencies
+# ==============================================
+
+# Data manipulation
+pandas>=1.5
+numpy>=1.24
+
+# Machine Learning
+scikit-learn>=1.2
+xgboost>=1.7
+imbalanced-learn>=0.10
+
+# Model serialization
+joblib>=1.2
+
+# Technical indicators
+ta>=0.10
+
+# Data collection
+yfinance>=0.2
+twelvedata>=1.2
+
+# Visualization & analysis
+matplotlib>=3.6
+mplfinance>=0.12
+seaborn>=0.12
